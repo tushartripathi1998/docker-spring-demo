@@ -1,0 +1,2 @@
+com/example/springbootdocker/SpringBootDockerApplicationTests.java
+ com.example.springbootdocker.SpringBootDockerApplicationTests
